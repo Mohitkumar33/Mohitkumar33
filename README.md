@@ -9,6 +9,6 @@
 - 🔭 I’m currently working on HTML, CSS, Javascript and React
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on open Source
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Python, Data Science, Machine Learning
 - 📫 How to reach me: mohitkumar06612@gmail.com
