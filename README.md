@@ -11,4 +11,4 @@
 - 😃 I’m looking to collaborate on open Source
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Python, Data Science, Machine Learning
-- 📫 How to reach me: mohitkumar06612@gmail.com
+- 📫 How to reach me: mohitkumar774377@gmail.com
