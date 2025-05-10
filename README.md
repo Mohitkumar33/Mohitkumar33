@@ -12,4 +12,4 @@
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Python, Data Science, Machine Learning
 - 📫 How to reach me: mohitkumar774377@gmail.com
-- 📫 My portfolio website: mohitkumar.in
+- 📫 My portfolio website: www.mohitkumar.in
